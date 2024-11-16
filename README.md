@@ -16,13 +16,13 @@ This Power BI project provides a comprehensive analysis of sales data, offering 
 •	Strategic Value: The insights derived from this dashboard can guide business strategies in sales optimization, regional targeting, and inventory planning.
 
 # Project Highlights
-Metric	Value
-Total Sales	438K
-Total Profit	37K
-Total Quantity Sold	5615
+Metric	Value <br />
+Total Sales	438K <br />
+Total Profit	37K <br />
+Total Quantity Sold	5615 <br />
 
 # Repository Structure
-•	Data: <a href "https://github.com/Jayram2003/Power-bi-dashboard-project/blob/main/Details.csv"</a>
+•	Data: https://github.com/Jayram2003/Power-bi-dashboard-project/blob/main/Details.csv
 •	Dashboard: Power BI file (.pbix) of the project.
 •	Images: Contains screenshots of the dashboard for easy preview.
 
